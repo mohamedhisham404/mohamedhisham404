@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+##As a computer science student with a strong skill set in C++, Python, OOP, and
+SQL, I am seeking a data analyst position where I can utilize these skills. With
+experience in Numpy, Pandas, data visualization, and competitive
+programming, I am confident in my ability to make data-driven decisions.
+Additionally, my background in math and statistics enhances my
+understanding of data analysis.
 <!--
 **mohamedhisham404/mohamedhisham404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
